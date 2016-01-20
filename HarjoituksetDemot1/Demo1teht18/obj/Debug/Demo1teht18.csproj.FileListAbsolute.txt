@@ -1,0 +1,5 @@
+C:\Users\Joona\Documents\JAMK\olio\HarjoituksetDemot1\Demo1teht18\bin\Debug\Demo1teht18.exe.config
+C:\Users\Joona\Documents\JAMK\olio\HarjoituksetDemot1\Demo1teht18\bin\Debug\Demo1teht18.exe
+C:\Users\Joona\Documents\JAMK\olio\HarjoituksetDemot1\Demo1teht18\bin\Debug\Demo1teht18.pdb
+C:\Users\Joona\Documents\JAMK\olio\HarjoituksetDemot1\Demo1teht18\obj\Debug\Demo1teht18.exe
+C:\Users\Joona\Documents\JAMK\olio\HarjoituksetDemot1\Demo1teht18\obj\Debug\Demo1teht18.pdb

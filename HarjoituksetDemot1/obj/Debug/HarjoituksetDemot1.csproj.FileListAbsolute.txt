@@ -1,0 +1,6 @@
+S:\olio\HarjoituksetDemot1\bin\Debug\HarjoituksetDemot1.exe.config
+S:\olio\HarjoituksetDemot1\obj\Debug\HarjoituksetDemot1.csprojResolveAssemblyReference.cache
+S:\olio\HarjoituksetDemot1\bin\Debug\HarjoituksetDemot1.exe
+S:\olio\HarjoituksetDemot1\bin\Debug\HarjoituksetDemot1.pdb
+S:\olio\HarjoituksetDemot1\obj\Debug\HarjoituksetDemot1.exe
+S:\olio\HarjoituksetDemot1\obj\Debug\HarjoituksetDemot1.pdb

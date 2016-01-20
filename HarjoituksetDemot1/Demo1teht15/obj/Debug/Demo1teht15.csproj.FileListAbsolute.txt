@@ -1,0 +1,2 @@
+C:\Users\Joona\Documents\JAMK\olio\HarjoituksetDemot1\Demo1teht15\bin\Debug\Demo1teht15.exe.config
+C:\Users\Joona\Source\Repos\OlioDemo1Teht\HarjoituksetDemot1\Demo1teht15\bin\Debug\Demo1teht15.exe.config

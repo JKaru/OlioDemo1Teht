@@ -1,0 +1,6 @@
+C:\Users\Joona\Documents\JAMK\olio\Demo1teht14\bin\Debug\Demo1teht14.exe.config
+C:\Users\Joona\Documents\JAMK\olio\Demo1teht14\bin\Debug\Demo1teht14.exe
+C:\Users\Joona\Documents\JAMK\olio\Demo1teht14\bin\Debug\Demo1teht14.pdb
+C:\Users\Joona\Documents\JAMK\olio\Demo1teht14\obj\Debug\Demo1teht14.csprojResolveAssemblyReference.cache
+C:\Users\Joona\Documents\JAMK\olio\Demo1teht14\obj\Debug\Demo1teht14.exe
+C:\Users\Joona\Documents\JAMK\olio\Demo1teht14\obj\Debug\Demo1teht14.pdb

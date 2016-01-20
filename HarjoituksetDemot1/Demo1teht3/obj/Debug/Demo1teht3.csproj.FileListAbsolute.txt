@@ -1,0 +1,5 @@
+S:\olio\HarjoituksetDemot1\Demo1teht3\bin\Debug\Demo1teht3.exe.config
+S:\olio\HarjoituksetDemot1\Demo1teht3\bin\Debug\Demo1teht3.exe
+S:\olio\HarjoituksetDemot1\Demo1teht3\bin\Debug\Demo1teht3.pdb
+S:\olio\HarjoituksetDemot1\Demo1teht3\obj\Debug\Demo1teht3.exe
+S:\olio\HarjoituksetDemot1\Demo1teht3\obj\Debug\Demo1teht3.pdb
